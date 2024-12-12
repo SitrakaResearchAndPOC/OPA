@@ -167,7 +167,6 @@ docker run -itd --privileged   --name OraclePadAttack oraclepadattack:v1
 docker exec -it OraclePadAttack python3 oracle_pad.py
 ```
 #  OPA WITHOUT DOCKER (installing ubuntu 20.04)
-# OPA WITH DOCKER
 [ncc_group](https://research.nccgroup.com/2021/02/17/cryptopals-exploiting-cbc-padding-oracles/)
 ```
 apt update
