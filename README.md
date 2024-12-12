@@ -1,5 +1,13 @@
 # OPA
 [ncc_group](https://research.nccgroup.com/2021/02/17/cryptopals-exploiting-cbc-padding-oracles/)
+ON KALi
+```
+apt update
+```
+```
+apt install -y docker.io
+```
+
 ```
 docker pull ubuntu:20.04
 ```
